@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yIRM+/ZZgTtET4gaBtE1ww/ctv8+tWO7D7cI66FbmcS0gEHaRMBIt8vUWEs1wY7g2x5buexhu6ukG+L1z9Wklg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lorik\\Lori\\Projects\\bijat\\bijatAPI\\bijatAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lorik\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
